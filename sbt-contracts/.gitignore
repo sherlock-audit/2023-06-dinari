@@ -1,0 +1,56 @@
+.DS_Store
+
+# node
+node_modules/
+
+# foundry
+cache/
+out/
+lcov*.info
+flattened.txt
+broadcast
+coverage/
+
+# hardhat
+artifacts/
+cache_hardhat/
+
+# slither
+/crytic_export
+
+# metrics
+metrics.html
+
+# env
+.env
+.env-*
+
+# logs
+*.log
+trace.json
+
+# python
+__pycache__/
+
+# IDE
+.idea
+
+# yarn v2
+.yarn/
+
+# dist
+dist/
+
+# d2
+docs/*.png
+
+# latex
+*.aux
+*.toc
+*.bbl
+*.fdb_latexmk
+*.fls
+*.out
+*.synctex.gz
+*.synctex(busy)
+latex/*.pdf
