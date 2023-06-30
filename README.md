@@ -91,20 +91,3 @@ ___
 
 # Audit scope
 
-
-[sbt-contracts @ 6e8f39d56c5a28cd55d540138c5ddb96b278315f](https://github.com/dinaricrypto/sbt-contracts/tree/6e8f39d56c5a28cd55d540138c5ddb96b278315f)
-- [sbt-contracts/src/BridgedERC20.sol](sbt-contracts/src/BridgedERC20.sol)
-- [sbt-contracts/src/IMintBurn.sol](sbt-contracts/src/IMintBurn.sol)
-- [sbt-contracts/src/ITransferRestrictor.sol](sbt-contracts/src/ITransferRestrictor.sol)
-- [sbt-contracts/src/TransferRestrictor.sol](sbt-contracts/src/TransferRestrictor.sol)
-- [sbt-contracts/src/common/SelfPermit.sol](sbt-contracts/src/common/SelfPermit.sol)
-- [sbt-contracts/src/issuer/BuyOrderIssuer.sol](sbt-contracts/src/issuer/BuyOrderIssuer.sol)
-- [sbt-contracts/src/issuer/DirectBuyIssuer.sol](sbt-contracts/src/issuer/DirectBuyIssuer.sol)
-- [sbt-contracts/src/issuer/IOrderBridge.sol](sbt-contracts/src/issuer/IOrderBridge.sol)
-- [sbt-contracts/src/issuer/IOrderFees.sol](sbt-contracts/src/issuer/IOrderFees.sol)
-- [sbt-contracts/src/issuer/OrderFees.sol](sbt-contracts/src/issuer/OrderFees.sol)
-- [sbt-contracts/src/issuer/OrderProcessor.sol](sbt-contracts/src/issuer/OrderProcessor.sol)
-- [sbt-contracts/src/issuer/SellOrderProcessor.sol](sbt-contracts/src/issuer/SellOrderProcessor.sol)
-
-
-
